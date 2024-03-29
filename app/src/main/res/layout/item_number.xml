@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EditText xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="45dp"
+    android:layout_marginEnd="10dp"
+    android:background="@drawable/shape_bg_car_number_normal"
+    android:focusable="false"
+    android:textColorHint="#AEAEB6"
+    android:focusableInTouchMode="false"
+    android:cursorVisible="false"
+    android:gravity="center" />
